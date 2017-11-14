@@ -1,7 +1,0 @@
-title: should get time
-given:
-  - time: 2013-03-31T14:33:18.272Z
-wts:
-  - when: GET time
-    then: |
-      14:33:18.272

@@ -1,8 +1,0 @@
-title: should say hello
-given:
-  - time: 2013-03-31T14:33:18.272+02:00
-  - uuids: [ "123456" ]
-wts:
-  - when: GET message/xavier
-    then: |
-      {"message":"hello xavier, it's 14:33:18"}
